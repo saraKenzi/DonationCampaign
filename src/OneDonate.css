@@ -1,0 +1,44 @@
+.one-donate {
+    text-align: center;
+    font-weight: bolder !important;
+    margin-bottom: 2%;
+    direction: rtl;
+}
+
+.amount {
+    font-weight: bold !important;
+    color: black !important;
+
+}
+
+#root > div > div > div > div > div{
+    margin-right: 40px;
+}
+
+p {
+    margin-block-start: 0em;
+}
+
+/* name-style */
+.css-2ulfj5-MuiTypography-root {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.9;
+    letter-spacing: 0.0075em;
+}
+
+/* note-style */
+.css-ahj2mt-MuiTypography-root {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    font-style: italic;
+
+    
+}
+
+/* time-style */
+.css-e784if-MuiTypography-root{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+
+}

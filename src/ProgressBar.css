@@ -1,0 +1,73 @@
+.divAllItemOfProgress {
+    margin-top: 2%;
+    position: relative;
+    width: 1100px !important;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.up-div {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+
+.down-div {
+    display: flex;
+    font-size: 16pt;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+
+.cnt {
+    margin-block-end: 0em;
+    font-size: 14pt;
+}
+.target{
+    margin-block-end: 0em;
+}
+
+.sum {
+    font-size: 30pt;
+}
+
+.up-div .percent {
+    position: absolute;
+    right: 93%;
+    bottom: 58%;
+}
+
+.div-pro-bar {
+    display: flex;
+
+}
+.pro-bar {
+    position: relative;
+}
+
+
+
+.icon {
+    position: absolute;
+    top: 40%;
+    left: 23%;
+    width: 50px;
+    z-index: 1;
+}
+
+.lable-percent {
+    position: absolute;
+    top: 46%;
+    left: 25%;
+    z-index: 2;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+
+
+
+
